@@ -1,0 +1,3 @@
+/mnt/c/Users/dumit/Desktop/CTI_anIV_2021-2022/semI/IEP/tema6/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dumit/Desktop/CTI_anIV_2021-2022/semI/IEP/tema6/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dumit/Desktop/CTI_anIV_2021-2022/semI/IEP/tema6/CMakeFiles/rectangle.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/dumit/Desktop/CTI_anIV_2021-2022/semI/IEP/tema6/src/iep6.cpp
+iostream
+-
+memory
+-
+thread
+-
+mutex
+-
+

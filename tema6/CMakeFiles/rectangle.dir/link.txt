@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rectangle.dir/iep6.cpp.o  -o rectangle  -lpthread 
